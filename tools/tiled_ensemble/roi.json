@@ -1,0 +1,15 @@
+{
+  "image": "temp_cropped_for_roi.png",
+  "image_size": {
+    "width": 4730,
+    "height": 2923
+  },
+  "rois": [
+    {
+      "x": 1005,
+      "y": 743,
+      "width": 641,
+      "height": 759
+    }
+  ]
+}
