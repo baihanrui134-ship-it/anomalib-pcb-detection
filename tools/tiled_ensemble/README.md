@@ -408,7 +408,7 @@ Anomalib 提供了多种业界领先的异常检测模型，以下是主要几�
 
 #### 示例 1：正常样本 - OK（异常分数：0.455）
 
-![预测结果示例1](../../datasets/pcb/predict_results/Image_534_OK_0.455.jpg)
+![预测结果示例1](examples/Image_534_OK_0.455.jpg)
 
 **分析说明：**
 - **判断结果**：✅ OK（正常）
@@ -421,7 +421,7 @@ Anomalib 提供了多种业界领先的异常检测模型，以下是主要几�
 
 #### 示例 2：正常样本 - OK（异常分数：0.460）
 
-![预测结果示例2](../../datasets/pcb/predict_results/Image_2026_OK_0.460.jpg)
+![预测结果示例2](examples/Image_2026_OK_0.460.jpg)
 
 **分析说明：**
 - **判断结果**：✅ OK（正常）
@@ -434,7 +434,7 @@ Anomalib 提供了多种业界领先的异常检测模型，以下是主要几�
 
 #### 示例 3：异常样本 - NG（异常分数：0.777）
 
-![预测结果示例3](../../datasets/pcb/predict_results/Image_2665_NG_0.777.jpg)
+![预测结果示例3](examples/Image_2665_NG_0.777.jpg)
 
 **分析说明：**
 - **判断结果**：❌ NG（异常）
