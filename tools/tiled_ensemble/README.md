@@ -359,7 +359,7 @@ Anomalib 提供了多种业界领先的异常检测模型，以下是主要几�
 
 ---
 
-### 3. PCB 背景裁剪（PCB Background Cropping）⭐ 核心功能
+### 3. PCB 背景裁剪（PCB Background Cropping）
 
 **功能价值**：自动去除黑色背景区域，解决实际生产中 **PCB 高度不一致导致的误判问题**
 
